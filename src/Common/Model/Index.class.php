@@ -1,5 +1,5 @@
 <?php
-namespace Marmot\Common\Model;
+namespace Common\Model;
 
 class Index
 {

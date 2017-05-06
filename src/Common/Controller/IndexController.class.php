@@ -1,5 +1,5 @@
 <?php
-namespace Marmot\Common\Controller;
+namespace Common\Controller;
 
 class IndexController
 {
