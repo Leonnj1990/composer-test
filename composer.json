@@ -1,0 +1,19 @@
+{
+    "name": "leonNJ/compose-test",
+    "description": "In order to study composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "leonNJ",
+            "email": "1119679388@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Common\\Controller\\": "src/Common/Controller",
+            "Common\\Model\\": "src/Common/Model"
+        }
+    }   
+}
