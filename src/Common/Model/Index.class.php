@@ -3,9 +3,9 @@ namespace Common\Model;
 
 class Index
 {
-	public static function index()
+	public function hello()
     {
-        echo "This is index model!<br />";
+        return "Hello World Model";
     }
 
 }
