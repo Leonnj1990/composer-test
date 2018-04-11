@@ -3,7 +3,7 @@ namespace Common\Model;
 
 use PHPUnit\Framework\TestCase;
 
-class IndexTest extends PHPUnit_Framework_TestCase
+class IndexTest extends TestCase
 {
     private $stub;
 
