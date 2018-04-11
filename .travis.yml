@@ -30,7 +30,6 @@ matrix:
 
 # omitting "script:" will default to phpunit
 script: phpunit --configuration phpunit.xml --coverage-text
-script: phpcs --configuration phpcs.xml --report-full
 
 after_script:
   - cd ./dist
